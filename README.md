@@ -11,8 +11,7 @@ SQL</a></li>
 PHP </a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/C-Tutorial/blob/master/README.md" style="text-decoration:none;">
 C </a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/README.md" style="text-decoration:none;">
-C++ </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Tutorial/blob/master/README.md" style="text-decoration:none;"> C++ </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/README.md" style="text-decoration:none;">
 Java </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/README.md" style="text-decoration:none;">
@@ -20,5 +19,6 @@ jQuery </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/README.md" style="text-decoration:none;">
 Python</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/README.md" style="text-decoration:none;"> Algorithms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/README.md" style="text-decoration:none;">Linux </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/README.md" style="text-decoration:none;">Artificial-Intelligence</a></li>
 </ul>
