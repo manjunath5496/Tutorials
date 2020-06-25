@@ -61,10 +61,10 @@ Python</a></li>
 <li><a title="Atomic Age" href="https://en.wikipedia.org/wiki/Atomic_Age">Atomic Age</a></li>
 <li><a title="Jet Age" href="https://en.wikipedia.org/wiki/Jet_Age">Jet Age</a></li>
 <li><a title="Space Age" href="https://en.wikipedia.org/wiki/Space_Age">Space Age</a></li>
-<li><a title="Digital Revolution" href="https://en.wikipedia.org/wiki/Digital_Revolution">Digital Revolution</a>&nbsp;(Third Industrial Revolution)</li>
+<li><a title="Digital Revolution" href="https://en.wikipedia.org/wiki/Digital_Revolution">Digital Revolution</a>&nbsp;</li>
 <li><a title="Digital transformation" href="https://en.wikipedia.org/wiki/Digital_transformation">Digital transformation</a></li>
 <li><a title="Information Age" href="https://en.wikipedia.org/wiki/Information_Age">Information Age</a></li>
-<li><a title="Industry 4.0" href="https://en.wikipedia.org/wiki/Industry_4.0">Industry 4.0</a>&nbsp;(Fourth Industrial Revolution)</li>
+<li><a title="Industry 4.0" href="https://en.wikipedia.org/wiki/Industry_4.0">Industry 4.0</a>&nbsp;</li>
 <li><a title="Emerging technologies" href="https://en.wikipedia.org/wiki/Emerging_technologies">Emerging technologies</a></li>
 </ul>
 </div>
@@ -122,7 +122,7 @@ Python</a></li>
 <div class="NavHead">Technology timelines</div>
 <div class="NavContent">
 <ul>
-<li><a class="mw-selflink selflink">Timeline of historic inventions</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Timeline_of_historic_inventions">Timeline of historic inventions</a></li>
 <li><a title="Category:Technology timelines" href="https://en.wikipedia.org/wiki/Category:Technology_timelines">Complete list by category</a></li>
 </ul>
 </div>
