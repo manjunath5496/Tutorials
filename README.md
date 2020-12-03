@@ -239,7 +239,7 @@ With Applications to Graphics and Geometry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(38).pdf" style="text-decoration:none;">Computer Networking: Principles,
 Protocols and Practice</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(39).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(40).pdf" style="text-decoration:none;">Introduction to Scientic Computing in Python</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(40).pdf" style="text-decoration:none;">Introduction to Scientific Computing in Python</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(41).pdf" style="text-decoration:none;">Issues in
 Open Research Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(42).pdf" style="text-decoration:none;">The Digital Rights Movement:
