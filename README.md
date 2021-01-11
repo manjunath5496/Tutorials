@@ -225,7 +225,7 @@ Python</a></li>
 <li><a title="Hierarchical clustering" href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchical</a></li>
 <li><a title="K-means clustering" href="https://en.wikipedia.org/wiki/K-means_clustering"><em>k</em>-means</a></li>
 <li><a title="Expectation&ndash;maximization algorithm" href="https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm">Expectation&ndash;maximization (EM)</a></li>
-<li><br /><a title="DBSCAN" href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN</a></li>
+<li><a title="DBSCAN" href="https://en.wikipedia.org/wiki/DBSCAN">DBSCAN</a></li>
 <li><a title="OPTICS algorithm" href="https://en.wikipedia.org/wiki/OPTICS_algorithm">OPTICS</a></li>
 <li><a class="mw-redirect" title="Mean-shift" href="https://en.wikipedia.org/wiki/Mean-shift">Mean-shift</a></li>
 </ul>
@@ -381,14 +381,9 @@ Python</a></li>
 <tr>
 <td>
 <div id="NavFrame11" class="NavFrame collapsed">
-<div class="NavHead"><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary of artificial intelligence</a></div>
-<div class="NavContent">
-<div class="hlist">
 <ul>
-<li><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary of artificial intelligence</a></li>
+<li class="NavHead"><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary of artificial intelligence</a></li>
 </ul>
-</div>
-</div>
 </div>
 </td>
 </tr>
@@ -409,7 +404,6 @@ Python</a></li>
 </tr>
 </tbody>
 </table>
-
 </br>
 
 
