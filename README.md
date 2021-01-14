@@ -662,6 +662,10 @@ Accelerator Physics</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(20).pdf" style="text-decoration:none;">Particle Accelerator Physics</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(21).pdf" style="text-decoration:none;">The Priority of Locomotion
+in Aristotle's Physics</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(22).pdf" style="text-decoration:none;">Space in Hellenistic Philosophy</a></li> 
 
 
 
