@@ -749,3 +749,63 @@ Traditions in Didactics of Mathematics</a></li>
 
 
 </ul>
+</br>
+
+
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+
+</br>
+
+<h2>Biology Books  </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(1).pdf" style="text-decoration:none;">Nanoscale Photonic Imaging</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(2).pdf" style="text-decoration:none;">Taxonomic Tapestries: The Threads of Evolutionary, Behavioural and Conservation Research</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(3).pdf" style="text-decoration:none;">The Gene Ontology Handbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(4).pdf" style="text-decoration:none;">Sexual Reproduction in Animals and Plants</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(5).pdf" style="text-decoration:none;">Annals of the History
+and Philosophy of Biology, Volume 17 (2012)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(6).pdf" style="text-decoration:none;">Bioimage Data Analysis Work Flows</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(7).pdf" style="text-decoration:none;">High Resolution
+Imaging in Microscopy and Ophthalmology</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(8).pdf" style="text-decoration:none;">Everything Flows: Towards a Processual
+Philosophy of Biology </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(9).pdf" style="text-decoration:none;">The Laboratory Guinea Pig</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(10).pdf" style="text-decoration:none;">Biodiversity
+Databases: Techniques, Politics, and Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(11).pdf" style="text-decoration:none;">The Endangered Species Act:
+History, Implementation, Successes, and Controversies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(12).pdf" style="text-decoration:none;">Diseases of
+Edible Oilseed Crops</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(13).pdf" style="text-decoration:none;">Trace Elements in
+Abiotic and Biotic Environments</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(14).pdf" style="text-decoration:none;">Precision Agriculture Technology for Crop Farming</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(15).pdf" style="text-decoration:none;">Optically Induced Nanostructures</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(16).pdf" style="text-decoration:none;">Annals of the History
+and Philosophy of Biology, Volume 14 (2009)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(17).pdf" style="text-decoration:none;">Annals of the History
+and Philosophy of Biology, Volume 19 (2014)</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(18).pdf" style="text-decoration:none;">Dangerous Science:
+Science Policy and Risk Analysis for Scientists and Engineers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(19).pdf" style="text-decoration:none;">Systematics 2008
+Programme and Abstracts</a></li>
+
+
+
+</ul>
+
