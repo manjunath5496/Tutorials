@@ -510,6 +510,89 @@ Open Research Data</a></li>
 The Role of Technology in Subverting Digital Copyright</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/oct(43).pdf" style="text-decoration:none;">High Performance Computing</a></li>
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(1).pdf" style="text-decoration:none;">Solving PDEs in Python: The FEniCS Tutorial I</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(2).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming – Workshops XP 2020 Workshops Copenhagen, Denmark, June 8–12, 2020 Revised Selected Papers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(3).pdf" style="text-decoration:none;">Introduction
+to Scientific Programming with Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(4).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 29th European Symposium on Programming, ESOP 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020
+Dublin, Ireland, April 25–30, 2020 Proceedings</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(5).pdf" style="text-decoration:none;">Machine Learning for Cyber
+Physical Systems: Selected papers from the International Conference ML4CPS 2020</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(6).pdf" style="text-decoration:none;">XcalableMP PGAS Programming Language</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(7).pdf" style="text-decoration:none;">Computer Vision Metrics: Survey, Taxonomy, and Analysis</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(8).pdf" style="text-decoration:none;"> DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(9).pdf" style="text-decoration:none;">Efficient Learning Machines</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(10).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 17th International Conference, XP 2016 Edinburgh, UK, May 24–27, 2016 Proceedings</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(11).pdf" style="text-decoration:none;">Programming for
+Computations – Python: A Gentle Introduction to Numerical Simulations with Python</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(12).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 18th International Conference, XP 2017 Cologne, Germany, May 22–26, 2017 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(13).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 19th International Conference, XP 2018 Porto, Portugal, May 21–25, 2018 Proceedings</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(14).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 27th European Symposium on Programming, ESOP 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018
+Thessaloniki, Greece, April 14–20, 2018 Proceedings</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(15).pdf" style="text-decoration:none;">Tech Giants, Artificial
+Intelligence, and the Future of Journalism</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(16).pdf" style="text-decoration:none;">Ethical Programs: Hospitality and the Rhetorics of Software</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(17).pdf" style="text-decoration:none;">Seeing the Past with Computers</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(18).pdf" style="text-decoration:none;">Programming
+Languages and Systems: 28th European Symposium on Programming, ESOP 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019
+Prague, Czech Republic, April 6–11, 2019 Proceedings</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(19).pdf" style="text-decoration:none;">Machine Learning for Cyber
+Physical Systems: Selected papers from the International Conference ML4CPS 2018</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(20).pdf" style="text-decoration:none;">Agile Processes
+in Software Engineering and Extreme Programming: 20th International Conference, XP 2019 Montréal, QC, Canada, May 21–25, 2019 Proceedings</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(21).pdf" style="text-decoration:none;">Agile Processes in Software Engineering
+and Extreme Programming – Workshops XP 2019 Workshops Montréal, QC, Canada, May 21–25, 2019 Proceedings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(22).pdf" style="text-decoration:none;">Automated Machine
+Learning: Methods, Systems, Challenges</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(23).pdf" style="text-decoration:none;">Programming Persistent
+Memory: A Comprehensive Guide for Developers</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(24).pdf" style="text-decoration:none;">New Trends in the Use of
+Artificial Intelligence for the Industry 4.0</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(25).pdf" style="text-decoration:none;">The Democratization of Artificial Intelligence: 
+Net Politics in the Era of Learning Algorithms</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(26).pdf" style="text-decoration:none;">Artificial Intelligence in
+Oncology Drug Discovery and Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(27).pdf" style="text-decoration:none;">Deterministic Artificial
+Intelligence</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(28).pdf" style="text-decoration:none;">Artificial Intelligence And The Internet Of Things</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
 
 </br>
