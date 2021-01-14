@@ -699,5 +699,46 @@ Abiotic and Biotic Environments</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(6).pdf" style="text-decoration:none;">Unit Operations of
 Particulate Solids: Theory and Practice</a></li>
  </ul>
+</br>
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+
+</br>
+<h2>Mathematics Books  </h2>
 
 
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(1).pdf" style="text-decoration:none;">Logic and the
+Foundations of Game and Decision Theory (LOFT 7)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(2).pdf" style="text-decoration:none;">BAYESIAN METHODS
+for Statistical Analysis</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(3).pdf" style="text-decoration:none;">Teaching Mathematics at
+Secondary Level</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(4).pdf" style="text-decoration:none;">Student Misconceptions
+and Errors in Physics and Mathematics: Exploring Data from TIMSS and TIMSS Advanced</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(5).pdf" style="text-decoration:none;">Spectral Geometry of
+Partial Differential Operators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(6).pdf" style="text-decoration:none;">Mathematical Aspects of Logic Programming Semantics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(7).pdf" style="text-decoration:none;">Advanced Problems in
+Mathematics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(8).pdf" style="text-decoration:none;"> Proceedings of the
+Austrian Robotics Workshop 2018 </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(9).pdf" style="text-decoration:none;">Connecting Mathematics and Mathematics
+Education</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(10).pdf" style="text-decoration:none;">Making up Numbers: 
+A History of Invention in Mathematics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(11).pdf" style="text-decoration:none;">Mathematics of Economics and
+Business</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(12).pdf" style="text-decoration:none;">New Perspectives
+on Games and Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(13).pdf" style="text-decoration:none;">Advanced Location-Based Technologies and Services</a></li>
+
+</ul>
