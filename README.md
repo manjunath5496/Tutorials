@@ -741,4 +741,11 @@ Business</a></li>
 on Games and Interaction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(13).pdf" style="text-decoration:none;">Advanced Location-Based Technologies and Services</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(14).pdf" style="text-decoration:none;">The Legacy of Felix Klein</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(15).pdf" style="text-decoration:none;">European
+Traditions in Didactics of Mathematics</a></li>
+
+
+
+
 </ul>
