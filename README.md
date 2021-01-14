@@ -674,8 +674,30 @@ in Aristotle's Physics</a></li>
 
 
 </ul>
+</br>
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+
+</br>
+<h2>Chemistry Books  </h2>
 
 
 
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(1).pdf" style="text-decoration:none;">Innovation Technology: A Dictionary</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(2).pdf" style="text-decoration:none;">Hydroxyapatite
+Coatings for Biomedical Applications</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(3).pdf" style="text-decoration:none;">Self-Assembled Molecules – New Kind of Protein
+Ligands</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(4).pdf" style="text-decoration:none;">Solar Module Packaging: Polymeric Requirements and Selection</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(5).pdf" style="text-decoration:none;">Trace Elements in
+Abiotic and Biotic Environments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/chem(6).pdf" style="text-decoration:none;">Unit Operations of
+Particulate Solids: Theory and Practice</a></li>
+ <li>
 
 
