@@ -584,6 +584,27 @@ Intelligence</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(28).pdf" style="text-decoration:none;">Artificial Intelligence And The Internet Of Things</a></li>
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(29).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 26th International Conference, TACAS 2020 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2020 Dublin, Ireland, April 25–30, 2020 Proceedings, Part II </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(30).pdf" style="text-decoration:none;">Autonomous Control
+for a Reliable Internet of Services: Methods, Models, Approaches, Techniques, Algorithms, and Tools</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(31).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part I</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(32).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 24th International Conference, TACAS 2018 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018 Thessaloniki, Greece, April 14–20, 2018 Proceedings, Part II</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(33).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part I</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(34).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25th International Conference, TACAS 2019 Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part II</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(35).pdf" style="text-decoration:none;">Tools and Algorithms
+for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held as Part of ETAPS 2019 Prague, Czech Republic, April 6–11, 2019 Proceedings, Part III</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/com(36).pdf" style="text-decoration:none;">The Everyday Life of an Algorithm</a></li> 
  
  
  
