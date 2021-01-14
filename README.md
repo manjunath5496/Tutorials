@@ -656,7 +656,17 @@ Accelerator Physics</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(18).pdf" style="text-decoration:none;">Microfluidics and Nanofluidics Handbook: Fabrication, Implementation, and Applications</a></li> 
 
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(19).pdf" style="text-decoration:none;">Particle Physics Reference Library</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(20).pdf" style="text-decoration:none;">Particle Accelerator Physics</a></li> 
+
+
+
+
+
+
+
+
 </ul>
 
 
