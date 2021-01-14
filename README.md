@@ -405,9 +405,11 @@ Python</a></li>
 </tbody>
 </table>
 </br>
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
 
+</br>
 
-<h2>Open Source CS Books</h2>
+<h2> Computer Science Books</h2>
 
 
 <ul>
@@ -606,8 +608,10 @@ The Role of Technology in Subverting Digital Copyright</a></li>
 </tbody>
 </table>
 </br>
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
 
-<h2>Open Source Physics Books  </h2>
+</br>
+<h2>Physics Books  </h2>
 
 
 
