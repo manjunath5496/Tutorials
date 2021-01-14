@@ -848,9 +848,22 @@ on Games and Interaction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(14).pdf" style="text-decoration:none;">The Legacy of Felix Klein</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(15).pdf" style="text-decoration:none;">European
 Traditions in Didactics of Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(16).pdf" style="text-decoration:none;">An Invitation to Statistics
+in Wasserstein Space</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(17).pdf" style="text-decoration:none;">Statistics and Reality</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(18).pdf" style="text-decoration:none;">Empirical Research
+in Statistics Education</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(19).pdf" style="text-decoration:none;">Understanding
+Statistics and Experimental Design</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(20).pdf" style="text-decoration:none;">Advanced Statistical
+Modeling, Forecasting, and Fault Detection in Renewable Energy Systems</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(21).pdf" style="text-decoration:none;">States and
+statistics in the nineteenth century</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/math(22).pdf" style="text-decoration:none;">Statistical
+Population Genomics</a></li>
 
 </ul>
 </br>
