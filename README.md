@@ -613,56 +613,54 @@ The Role of Technology in Subverting Digital Copyright</a></li>
 </br>
 <h2>Physics Books  </h2>
 
-
-
 <ul>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(1).pdf" style="text-decoration:none;">Realist Magic
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(1).pdf" style="text-decoration:none;">Realist Magic
 Objects, Ontology, Causality</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(2).pdf" style="text-decoration:none;">A Time Travel Dialogue</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(2).pdf" style="text-decoration:none;">A Time Travel Dialogue</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(3).pdf" style="text-decoration:none;">Collider Physics within the Standard Model: A Primer</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(4).pdf" style="text-decoration:none;">Foundations of Quantum
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(3).pdf" style="text-decoration:none;">Collider Physics within the Standard Model: A Primer</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(4).pdf" style="text-decoration:none;">Foundations of Quantum
 Theory: From Classical Concepts to Operator Algebras</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(5).pdf" style="text-decoration:none;">Physical (A)Causality
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(5).pdf" style="text-decoration:none;">Physical (A)Causality
 Determinism, Randomness and Uncaused Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(6).pdf" style="text-decoration:none;">International Cooperation
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(6).pdf" style="text-decoration:none;">International Cooperation
 for Enhancing Nuclear Safety, Security, Safeguards and Non-proliferation– 60 Years of IAEA and EURATOM</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(7).pdf" style="text-decoration:none;">Solar Particle Radiation Storms Forecasting
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(7).pdf" style="text-decoration:none;">Solar Particle Radiation Storms Forecasting
 and Analysis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(8).pdf" style="text-decoration:none;"> Radiation
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(8).pdf" style="text-decoration:none;"> Radiation
 Monitoring and Dose Estimation of the Fukushima Nuclear Accident</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(9).pdf" style="text-decoration:none;">Demystifying Climate
+   <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(9).pdf" style="text-decoration:none;">Demystifying Climate
 Models: A Users Guide to Earth System Models</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(10).pdf" style="text-decoration:none;">Weather and Climate Services for the Energy Industry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(11).pdf" style="text-decoration:none;">Student Misconceptions
+ <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(10).pdf" style="text-decoration:none;">Weather and Climate Services for the Energy Industry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(11).pdf" style="text-decoration:none;">Student Misconceptions
 and Errors in Physics and Mathematics: Exploring Data from TIMSS and TIMSS Advanced</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(12).pdf" style="text-decoration:none;">Charged Particle
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(12).pdf" style="text-decoration:none;">Charged Particle
 Optics Theory: An Introduction </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(13).pdf" style="text-decoration:none;">IUTAM: 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(13).pdf" style="text-decoration:none;">IUTAM: 
 A Short History</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(14).pdf" style="text-decoration:none;">The Physics of the B Factories</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(14).pdf" style="text-decoration:none;">The Physics of the B Factories</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(15).pdf" style="text-decoration:none;">Second Assessment
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(15).pdf" style="text-decoration:none;">Second Assessment
 of Climate Change for the Baltic Sea Basin</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(16).pdf" style="text-decoration:none;">Measurement and Control of Charged Particle Beams</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(16).pdf" style="text-decoration:none;">Measurement and Control of Charged Particle Beams</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(17).pdf" style="text-decoration:none;">Particle
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(17).pdf" style="text-decoration:none;">Particle
 Accelerator Physics</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(18).pdf" style="text-decoration:none;">Microfluidics and Nanofluidics Handbook: Fabrication, Implementation, and Applications</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(18).pdf" style="text-decoration:none;">Microfluidics and Nanofluidics Handbook: Fabrication, Implementation, and Applications</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(19).pdf" style="text-decoration:none;">Particle Physics Reference Library</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(19).pdf" style="text-decoration:none;">Particle Physics Reference Library</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/main/phy(20).pdf" style="text-decoration:none;">Particle Accelerator Physics</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/phy(20).pdf" style="text-decoration:none;">Particle Accelerator Physics</a></li> 
 
 
 
@@ -672,6 +670,8 @@ Accelerator Physics</a></li>
 
 
 </ul>
+
+
 
 
 
