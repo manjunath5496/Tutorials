@@ -405,7 +405,7 @@ Python</a></li>
 </tbody>
 </table>
 </br>
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 
@@ -712,7 +712,7 @@ for the Construction and Analysis of Systems: 25 Years of TACAS: TOOLympics Held
 </tbody>
 </table>
 </br>
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 <h2>Physics Books  </h2>
@@ -779,7 +779,7 @@ in Aristotle's Physics</a></li>
 
 </ul>
 </br>
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 <h2>Chemistry Books  </h2>
@@ -804,7 +804,7 @@ Abiotic and Biotic Environments</a></li>
 Particulate Solids: Theory and Practice</a></li>
  </ul>
 </br>
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 <h2>Mathematics Books  </h2>
@@ -869,7 +869,7 @@ Population Genomics</a></li>
 </br>
 
 
-<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="512" height="179">
+<img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 
