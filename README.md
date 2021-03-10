@@ -926,6 +926,7 @@ Programme and Abstracts</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/bil(21).pdf" style="text-decoration:none;">Orthogeriatrics: The Management of Older Patients
 with Fragility Fractures</a></li>
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/mt(1).pdf" style="text-decoration:none;">General Biology I: Survey of Cellular Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/mt(2).pdf" style="text-decoration:none;">General Biology II: Survey of Molecular Life and Genetics</a></li>
 </ul>
 
