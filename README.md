@@ -929,4 +929,331 @@ with Fragility Fractures</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/mt(1).pdf" style="text-decoration:none;">General Biology I: Survey of Cellular Biology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Tutorials/blob/master/mt(2).pdf" style="text-decoration:none;">General Biology II: Survey of Molecular Life and Genetics</a></li>
 </ul>
+</br>
+<table class="nowraplinks mw-collapsible autocollapse navbox-inner mw-made-collapsible">
+<tbody>
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div id="Calculus"><a title="" href="https://en.wikipedia.org/wiki/Calculus">Calculus</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Precalculus" href="https://en.wikipedia.org/wiki/Precalculus">Precalculus</a></th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li><a title="Binomial theorem" href="https://en.wikipedia.org/wiki/Binomial_theorem">Binomial theorem</a></li>
+<li><a title="Concave function" href="https://en.wikipedia.org/wiki/Concave_function">Concave function</a></li>
+<li><a title="Continuous function" href="https://en.wikipedia.org/wiki/Continuous_function">Continuous function</a></li>
+<li><a title="Factorial" href="https://en.wikipedia.org/wiki/Factorial">Factorial</a></li>
+<li><a title="Finite difference" href="https://en.wikipedia.org/wiki/Finite_difference">Finite difference</a></li>
+<li><a title="Free variables and bound variables" href="https://en.wikipedia.org/wiki/Free_variables_and_bound_variables">Free variables and bound variables</a></li>
+<li><a title="Graph of a function" href="https://en.wikipedia.org/wiki/Graph_of_a_function">Graph of a function</a></li>
+<li><a title="Linear function" href="https://en.wikipedia.org/wiki/Linear_function">Linear function</a></li>
+<li><a title="Radian" href="https://en.wikipedia.org/wiki/Radian">Radian</a></li>
+<li><a title="Rolle's theorem" href="https://en.wikipedia.org/wiki/Rolle%27s_theorem">Rolle's theorem</a></li>
+<li><a title="Secant line" href="https://en.wikipedia.org/wiki/Secant_line">Secant</a></li>
+<li><a title="Slope" href="https://en.wikipedia.org/wiki/Slope">Slope</a></li>
+<li><a title="Tangent" href="https://en.wikipedia.org/wiki/Tangent">Tangent</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Limit (mathematics)" href="https://en.wikipedia.org/wiki/Limit_(mathematics)">Limits</a></th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Indeterminate form" href="https://en.wikipedia.org/wiki/Indeterminate_form">Indeterminate form</a></li>
+<li><a title="Limit of a function" href="https://en.wikipedia.org/wiki/Limit_of_a_function">Limit of a function</a>&nbsp;
+<ul>
+<li><a title="One-sided limit" href="https://en.wikipedia.org/wiki/One-sided_limit">One-sided limit</a></li>
+</ul>
+</li>
+<li><a title="Limit of a sequence" href="https://en.wikipedia.org/wiki/Limit_of_a_sequence">Limit of a sequence</a></li>
+<li><a title="Order of approximation" href="https://en.wikipedia.org/wiki/Order_of_approximation">Order of approximation</a></li>
+<li><a title="(&epsilon;, &delta;)-definition of limit" href="https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_limit">(&epsilon;, &delta;)-definition of limit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Differential calculus" href="https://en.wikipedia.org/wiki/Differential_calculus">Differential calculus</a></th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li><a title="Derivative" href="https://en.wikipedia.org/wiki/Derivative">Derivative</a></li>
+<li><a title="Differential (mathematics)" href="https://en.wikipedia.org/wiki/Differential_(mathematics)">Differential</a></li>
+<li><a title="Differential equation" href="https://en.wikipedia.org/wiki/Differential_equation">Differential equation</a></li>
+<li><a title="Differential operator" href="https://en.wikipedia.org/wiki/Differential_operator">Differential operator</a></li>
+<li><a title="Mean value theorem" href="https://en.wikipedia.org/wiki/Mean_value_theorem">Mean value theorem</a></li>
+<li><a title="Notation for differentiation" href="https://en.wikipedia.org/wiki/Notation_for_differentiation">Notation</a>&nbsp;
+<ul>
+<li><a title="Leibniz's notation" href="https://en.wikipedia.org/wiki/Leibniz%27s_notation">Leibniz's notation</a></li>
+<li><a class="mw-redirect" title="Newton's notation for differentiation" href="https://en.wikipedia.org/wiki/Newton%27s_notation_for_differentiation">Newton's notation</a></li>
+</ul>
+</li>
+<li><a title="Differentiation rules" href="https://en.wikipedia.org/wiki/Differentiation_rules">Rules of differentiation</a>&nbsp;
+<ul>
+<li><a title="Linearity of differentiation" href="https://en.wikipedia.org/wiki/Linearity_of_differentiation">linearity</a></li>
+<li><a title="Power rule" href="https://en.wikipedia.org/wiki/Power_rule">Power</a></li>
+<li><a class="mw-redirect" title="Sum rule in differentiation" href="https://en.wikipedia.org/wiki/Sum_rule_in_differentiation">Sum</a></li>
+<li><a title="Chain rule" href="https://en.wikipedia.org/wiki/Chain_rule">Chain</a></li>
+<li><a title="L'H&ocirc;pital's rule" href="https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule">L'H&ocirc;pital's</a></li>
+<li><a title="Product rule" href="https://en.wikipedia.org/wiki/Product_rule">Product</a>&nbsp;
+<ul>
+<li><a title="General Leibniz rule" href="https://en.wikipedia.org/wiki/General_Leibniz_rule">General Leibniz's rule</a></li>
+</ul>
+</li>
+<li><a title="Quotient rule" href="https://en.wikipedia.org/wiki/Quotient_rule">Quotient</a></li>
+</ul>
+</li>
+<li>Other techniques&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Implicit differentiation" href="https://en.wikipedia.org/wiki/Implicit_differentiation">Implicit differentiation</a></li>
+<li><a title="Inverse functions and differentiation" href="https://en.wikipedia.org/wiki/Inverse_functions_and_differentiation">Inverse functions and differentiation</a></li>
+<li><a title="Logarithmic derivative" href="https://en.wikipedia.org/wiki/Logarithmic_derivative">Logarithmic derivative</a></li>
+<li><a title="Related rates" href="https://en.wikipedia.org/wiki/Related_rates">Related rates</a></li>
+</ul>
+</li>
+<li><a title="Stationary point" href="https://en.wikipedia.org/wiki/Stationary_point">Stationary points</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="First derivative test" href="https://en.wikipedia.org/wiki/First_derivative_test">First derivative test</a></li>
+<li><a class="mw-redirect" title="Second derivative test" href="https://en.wikipedia.org/wiki/Second_derivative_test">Second derivative test</a></li>
+<li><a title="Extreme value theorem" href="https://en.wikipedia.org/wiki/Extreme_value_theorem">Extreme value theorem</a></li>
+<li><a title="Maxima and minima" href="https://en.wikipedia.org/wiki/Maxima_and_minima">Maxima and minima</a></li>
+</ul>
+</li>
+<li>Further applications&nbsp;
+<ul>
+<li><a title="Newton's method" href="https://en.wikipedia.org/wiki/Newton%27s_method">Newton's method</a></li>
+<li><a title="Taylor's theorem" href="https://en.wikipedia.org/wiki/Taylor%27s_theorem">Taylor's theorem</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a class="mw-redirect" title="Integral calculus" href="https://en.wikipedia.org/wiki/Integral_calculus">Integral calculus</a></th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Antiderivative" href="https://en.wikipedia.org/wiki/Antiderivative">Antiderivative</a></li>
+<li><a title="Arc length" href="https://en.wikipedia.org/wiki/Arc_length">Arc length</a></li>
+<li><a title="Integral" href="https://en.wikipedia.org/wiki/Integral#Properties">Basic properties</a></li>
+<li><a title="Constant of integration" href="https://en.wikipedia.org/wiki/Constant_of_integration">Constant of integration</a></li>
+<li><a title="Fundamental theorem of calculus" href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus">Fundamental theorem of calculus</a>&nbsp;
+<ul>
+<li><a title="Leibniz integral rule" href="https://en.wikipedia.org/wiki/Leibniz_integral_rule">Differentiating under the integral sign</a></li>
+</ul>
+</li>
+<li><a title="Integration by parts" href="https://en.wikipedia.org/wiki/Integration_by_parts">Integration by parts</a></li>
+<li><a title="Integration by substitution" href="https://en.wikipedia.org/wiki/Integration_by_substitution">Integration by substitution</a>&nbsp;
+<ul>
+<li><a title="Trigonometric substitution" href="https://en.wikipedia.org/wiki/Trigonometric_substitution">trigonometric</a></li>
+<li><a title="Euler substitution" href="https://en.wikipedia.org/wiki/Euler_substitution">Euler</a></li>
+<li><a title="Weierstrass substitution" href="https://en.wikipedia.org/wiki/Weierstrass_substitution">Weierstrass</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Partial fractions in integration" href="https://en.wikipedia.org/wiki/Partial_fractions_in_integration">Partial fractions in integration</a>&nbsp;
+<ul>
+<li><a title="Quadratic integral" href="https://en.wikipedia.org/wiki/Quadratic_integral">Quadratic integral</a></li>
+</ul>
+</li>
+<li><a title="Trapezoidal rule" href="https://en.wikipedia.org/wiki/Trapezoidal_rule">Trapezoidal rule</a></li>
+<li>Volumes&nbsp;
+<ul>
+<li><a title="Disc integration" href="https://en.wikipedia.org/wiki/Disc_integration">Washer method</a></li>
+<li><a title="Shell integration" href="https://en.wikipedia.org/wiki/Shell_integration">Shell method</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Vector calculus" href="https://en.wikipedia.org/wiki/Vector_calculus">Vector calculus</a></th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li>Derivatives&nbsp;
+<ul>
+<li><a title="Curl (mathematics)" href="https://en.wikipedia.org/wiki/Curl_(mathematics)">Curl</a></li>
+<li><a title="Directional derivative" href="https://en.wikipedia.org/wiki/Directional_derivative">Directional derivative</a></li>
+<li><a title="Divergence" href="https://en.wikipedia.org/wiki/Divergence">Divergence</a></li>
+<li><a title="Gradient" href="https://en.wikipedia.org/wiki/Gradient">Gradient</a></li>
+<li><a title="Laplace operator" href="https://en.wikipedia.org/wiki/Laplace_operator">Laplacian</a></li>
+</ul>
+</li>
+<li>Basic theorems&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Fundamental Theorem of Line Integrals" href="https://en.wikipedia.org/wiki/Fundamental_Theorem_of_Line_Integrals">Line integrals</a></li>
+<li><a title="Green's theorem" href="https://en.wikipedia.org/wiki/Green%27s_theorem">Green's</a></li>
+<li><a title="Stokes' theorem" href="https://en.wikipedia.org/wiki/Stokes%27_theorem">Stokes'</a></li>
+<li><a title="Divergence theorem" href="https://en.wikipedia.org/wiki/Divergence_theorem">Gauss'</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Multivariable calculus" href="https://en.wikipedia.org/wiki/Multivariable_calculus">Multivariable calculus</a></th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Divergence theorem" href="https://en.wikipedia.org/wiki/Divergence_theorem">Divergence theorem</a></li>
+<li><a title="Geometric calculus" href="https://en.wikipedia.org/wiki/Geometric_calculus">Geometric</a></li>
+<li><a title="Hessian matrix" href="https://en.wikipedia.org/wiki/Hessian_matrix">Hessian matrix</a></li>
+<li><a title="Jacobian matrix and determinant" href="https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant">Jacobian matrix and determinant</a></li>
+<li><a title="Lagrange multiplier" href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Lagrange multiplier</a></li>
+<li><a title="Line integral" href="https://en.wikipedia.org/wiki/Line_integral">Line integral</a></li>
+<li><a title="Matrix calculus" href="https://en.wikipedia.org/wiki/Matrix_calculus">Matrix</a></li>
+<li><a title="Multiple integral" href="https://en.wikipedia.org/wiki/Multiple_integral">Multiple integral</a></li>
+<li><a title="Partial derivative" href="https://en.wikipedia.org/wiki/Partial_derivative">Partial derivative</a></li>
+<li><a title="Surface integral" href="https://en.wikipedia.org/wiki/Surface_integral">Surface integral</a></li>
+<li><a title="Volume integral" href="https://en.wikipedia.org/wiki/Volume_integral">Volume integral</a></li>
+<li>Advanced topics&nbsp;
+<ul>
+<li><a title="Differential form" href="https://en.wikipedia.org/wiki/Differential_form">Differential forms</a></li>
+<li><a title="Exterior derivative" href="https://en.wikipedia.org/wiki/Exterior_derivative">Exterior derivative</a></li>
+<li><a class="mw-redirect" title="Generalized Stokes' theorem" href="https://en.wikipedia.org/wiki/Generalized_Stokes%27_theorem">Generalized Stokes' theorem</a></li>
+<li><a title="Tensor calculus" href="https://en.wikipedia.org/wiki/Tensor_calculus">Tensor calculus</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Sequences and series</th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li><a title="Arithmetico&ndash;geometric sequence" href="https://en.wikipedia.org/wiki/Arithmetico%E2%80%93geometric_sequence">Arithmetico&ndash;geometric sequence</a></li>
+<li>Types of series&nbsp;
+<ul>
+<li><a title="Alternating series" href="https://en.wikipedia.org/wiki/Alternating_series">Alternating</a></li>
+<li><a title="Binomial series" href="https://en.wikipedia.org/wiki/Binomial_series">Binomial</a></li>
+<li><a title="Fourier series" href="https://en.wikipedia.org/wiki/Fourier_series">Fourier</a></li>
+<li><a title="Geometric series" href="https://en.wikipedia.org/wiki/Geometric_series">Geometric</a></li>
+<li><a title="Harmonic series (mathematics)" href="https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)">Harmonic</a></li>
+<li><a class="mw-redirect" title="Infinite series" href="https://en.wikipedia.org/wiki/Infinite_series">Infinite</a></li>
+<li><a title="Power series" href="https://en.wikipedia.org/wiki/Power_series">Power</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Maclaurin series" href="https://en.wikipedia.org/wiki/Maclaurin_series">Maclaurin</a></li>
+<li><a title="Taylor series" href="https://en.wikipedia.org/wiki/Taylor_series">Taylor</a></li>
+</ul>
+</li>
+<li><a title="Telescoping series" href="https://en.wikipedia.org/wiki/Telescoping_series">Telescoping</a></li>
+</ul>
+</li>
+<li>Tests of convergence&nbsp;
+<ul>
+<li><a title="Abel's test" href="https://en.wikipedia.org/wiki/Abel%27s_test">Abel's</a></li>
+<li><a title="Alternating series test" href="https://en.wikipedia.org/wiki/Alternating_series_test">Alternating series</a></li>
+<li><a title="Cauchy condensation test" href="https://en.wikipedia.org/wiki/Cauchy_condensation_test">Cauchy condensation</a></li>
+<li><a title="Direct comparison test" href="https://en.wikipedia.org/wiki/Direct_comparison_test">Direct comparison</a></li>
+<li><a title="Dirichlet's test" href="https://en.wikipedia.org/wiki/Dirichlet%27s_test">Dirichlet's</a></li>
+<li><a title="Integral test for convergence" href="https://en.wikipedia.org/wiki/Integral_test_for_convergence">Integral</a></li>
+<li><a title="Limit comparison test" href="https://en.wikipedia.org/wiki/Limit_comparison_test">Limit comparison</a></li>
+<li><a title="Ratio test" href="https://en.wikipedia.org/wiki/Ratio_test">Ratio</a></li>
+<li><a title="Root test" href="https://en.wikipedia.org/wiki/Root_test">Root</a></li>
+<li><a title="Term test" href="https://en.wikipedia.org/wiki/Term_test">Term</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Special functions<br />and numbers</th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Bernoulli number" href="https://en.wikipedia.org/wiki/Bernoulli_number">Bernoulli numbers</a></li>
+<li><a title="E (mathematical constant)" href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">e (mathematical constant)</a></li>
+<li><a title="Exponential function" href="https://en.wikipedia.org/wiki/Exponential_function">Exponential function</a></li>
+<li><a title="Natural logarithm" href="https://en.wikipedia.org/wiki/Natural_logarithm">Natural logarithm</a></li>
+<li><a title="Stirling's approximation" href="https://en.wikipedia.org/wiki/Stirling%27s_approximation">Stirling's approximation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="History of calculus" href="https://en.wikipedia.org/wiki/History_of_calculus">History of calculus</a></th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li><a title="Adequality" href="https://en.wikipedia.org/wiki/Adequality">Adequality</a></li>
+<li><a title="Brook Taylor" href="https://en.wikipedia.org/wiki/Brook_Taylor">Brook Taylor</a></li>
+<li><a title="Colin Maclaurin" href="https://en.wikipedia.org/wiki/Colin_Maclaurin">Colin Maclaurin</a></li>
+<li><a title="Generality of algebra" href="https://en.wikipedia.org/wiki/Generality_of_algebra">Generality of algebra</a></li>
+<li><a title="Gottfried Wilhelm Leibniz" href="https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz">Gottfried Wilhelm Leibniz</a></li>
+<li><a title="Infinitesimal" href="https://en.wikipedia.org/wiki/Infinitesimal">Infinitesimal</a></li>
+<li><a class="mw-redirect" title="Infinitesimal calculus" href="https://en.wikipedia.org/wiki/Infinitesimal_calculus">Infinitesimal calculus</a></li>
+<li><a title="Isaac Newton" href="https://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a></li>
+<li><a title="Fluxion" href="https://en.wikipedia.org/wiki/Fluxion">Fluxion</a></li>
+<li><a class="mw-redirect" title="Law of Continuity" href="https://en.wikipedia.org/wiki/Law_of_Continuity">Law of Continuity</a></li>
+<li><a title="Leonhard Euler" href="https://en.wikipedia.org/wiki/Leonhard_Euler">Leonhard Euler</a></li>
+<li><em><a title="Method of Fluxions" href="https://en.wikipedia.org/wiki/Method_of_Fluxions">Method of Fluxions</a></em></li>
+<li><em><a title="The Method of Mechanical Theorems" href="https://en.wikipedia.org/wiki/The_Method_of_Mechanical_Theorems">The Method of Mechanical Theorems</a></em></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Lists</th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Differentiation rules" href="https://en.wikipedia.org/wiki/Differentiation_rules">Differentiation rules</a></li>
+<li><a title="List of integrals of exponential functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_exponential_functions">List of integrals of exponential functions</a></li>
+<li><a title="List of integrals of hyperbolic functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_hyperbolic_functions">List of integrals of hyperbolic functions</a></li>
+<li><a title="List of integrals of inverse hyperbolic functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_inverse_hyperbolic_functions">List of integrals of inverse hyperbolic functions</a></li>
+<li><a title="List of integrals of inverse trigonometric functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_inverse_trigonometric_functions">List of integrals of inverse trigonometric functions</a></li>
+<li><a title="List of integrals of irrational functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_irrational_functions">List of integrals of irrational functions</a></li>
+<li><a title="List of integrals of logarithmic functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_logarithmic_functions">List of integrals of logarithmic functions</a></li>
+<li><a title="List of integrals of rational functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_rational_functions">List of integrals of rational functions</a></li>
+<li><a title="List of integrals of trigonometric functions" href="https://en.wikipedia.org/wiki/List_of_integrals_of_trigonometric_functions">List of integrals of trigonometric functions</a>&nbsp;
+<ul>
+<li><a title="Integral of the secant function" href="https://en.wikipedia.org/wiki/Integral_of_the_secant_function">Secant</a></li>
+<li><a title="Integral of secant cubed" href="https://en.wikipedia.org/wiki/Integral_of_secant_cubed">Secant cubed</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">List of limits</a></li>
+<li><a title="Lists of integrals" href="https://en.wikipedia.org/wiki/Lists_of_integrals">Lists of integrals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Miscellaneous topics</th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li>Differential geometry&nbsp;
+<ul>
+<li><a title="Curvature" href="https://en.wikipedia.org/wiki/Curvature">curvature</a></li>
+<li><a class="mw-redirect" title="Differential geometry of curves" href="https://en.wikipedia.org/wiki/Differential_geometry_of_curves">of curves</a></li>
+<li><a title="Differential geometry of surfaces" href="https://en.wikipedia.org/wiki/Differential_geometry_of_surfaces">of surfaces</a></li>
+</ul>
+</li>
+<li><a title="Euler&ndash;Maclaurin formula" href="https://en.wikipedia.org/wiki/Euler%E2%80%93Maclaurin_formula">Euler&ndash;Maclaurin formula</a></li>
+<li><a title="Gabriel's Horn" href="https://en.wikipedia.org/wiki/Gabriel%27s_Horn">Gabriel's Horn</a></li>
+<li><a title="Integration Bee" href="https://en.wikipedia.org/wiki/Integration_Bee">Integration Bee</a></li>
+<li><a title="Proof that 22/7 exceeds &pi;" href="https://en.wikipedia.org/wiki/Proof_that_22/7_exceeds_%CF%80">Proof that 22/7 exceeds &pi;</a></li>
+<li><a title="Regiomontanus' angle maximization problem" href="https://en.wikipedia.org/wiki/Regiomontanus%27_angle_maximization_problem">Regiomontanus' angle maximization problem</a></li>
+<li><a title="Steinmetz solid" href="https://en.wikipedia.org/wiki/Steinmetz_solid">Steinmetz solid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 
