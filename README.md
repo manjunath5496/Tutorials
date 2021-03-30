@@ -1252,8 +1252,485 @@ with Fragility Fractures</a></li>
 </tr>
 </tbody>
 </table>
+</br>
+<table class="sidebar sidebar-collapse nomobile plainlist" style="width: 316px;">
+<tbody>
+<tr>
+<th class="sidebar-title" style="width: 306px;"><a title="" href="https://en.wikipedia.org/wiki/Special_relativity">Special relativity</a></th>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<ul>
+<li><a title="Principle of relativity" href="https://en.wikipedia.org/wiki/Principle_of_relativity">Principle of relativity</a></li>
+<li><a title="Theory of relativity" href="https://en.wikipedia.org/wiki/Theory_of_relativity">Theory of relativity</a></li>
+<li><a title="Doubly special relativity" href="https://en.wikipedia.org/wiki/Doubly_special_relativity">Doubly special relativity</a></li>
+<li><a title="De Sitter invariant special relativity" href="https://en.wikipedia.org/wiki/De_Sitter_invariant_special_relativity">de Sitter invariant special relativity</a></li>
+<li><a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">General relativity</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Foundations</div>
+<div class="sidebar-list-content mw-collapsible-content">
+<ul>
+<li><a title="Postulates of special relativity" href="https://en.wikipedia.org/wiki/Postulates_of_special_relativity">Postulates of special relativity</a></li>
+<li><a title="General covariance" href="https://en.wikipedia.org/wiki/General_covariance">General covariance</a></li>
+<li><a title="Simultaneity" href="https://en.wikipedia.org/wiki/Simultaneity">Simultaneity</a></li>
+<li><a title="Relativity of simultaneity" href="https://en.wikipedia.org/wiki/Relativity_of_simultaneity">Relativity of simultaneity</a></li>
+<li><a title="Kinematics" href="https://en.wikipedia.org/wiki/Kinematics">Relative motion</a></li>
+<li><a title="Event (relativity)" href="https://en.wikipedia.org/wiki/Event_(relativity)">Event</a></li>
+<li><a title="Frame of reference" href="https://en.wikipedia.org/wiki/Frame_of_reference">Frame of reference</a></li>
+<li><a title="Inertial frame of reference" href="https://en.wikipedia.org/wiki/Inertial_frame_of_reference">Inertial frame of reference</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass#Inertial_mass">Inertial mass</a></li>
+<li><a title="Invariant (physics)" href="https://en.wikipedia.org/wiki/Invariant_(physics)">Invariant</a></li>
+<li><a title="Rest frame" href="https://en.wikipedia.org/wiki/Rest_frame">Rest frame</a></li>
+<li><a title="Center-of-momentum frame" href="https://en.wikipedia.org/wiki/Center-of-momentum_frame">Center-of-momentum frame</a></li>
+<li><a title="Speed of light" href="https://en.wikipedia.org/wiki/Speed_of_light">Speed of light</a></li>
+<li><a title="Maxwell's equations" href="https://en.wikipedia.org/wiki/Maxwell%27s_equations">Maxwell's equations</a></li>
+<li><a title="Lorentz transformation" href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz transformation</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Consequences</div>
+<div class="sidebar-list-content mw-collapsible-content">
+<ul>
+<li><a title="Time dilation" href="https://en.wikipedia.org/wiki/Time_dilation">Time dilation</a></li>
+<li><a class="mw-selflink selflink">Gravitational time dilation</a></li>
+<li><a title="Mass in special relativity" href="https://en.wikipedia.org/wiki/Mass_in_special_relativity">Relativistic mass</a></li>
+<li><a title="Mass&ndash;energy equivalence" href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">Mass&ndash;energy equivalence</a></li>
+<li><a title="Proper time" href="https://en.wikipedia.org/wiki/Proper_time">Proper time</a></li>
+<li><a title="Proper length" href="https://en.wikipedia.org/wiki/Proper_length">Proper length</a></li>
+<li><a title="Length contraction" href="https://en.wikipedia.org/wiki/Length_contraction">Length contraction</a></li>
+<li><a title="Action at a distance" href="https://en.wikipedia.org/wiki/Action_at_a_distance">Action at a distance</a></li>
+<li><a title="Principle of locality" href="https://en.wikipedia.org/wiki/Principle_of_locality">Principle of locality</a></li>
+<li><a title="Relativity of simultaneity" href="https://en.wikipedia.org/wiki/Relativity_of_simultaneity">Relativity of simultaneity</a></li>
+<li><a title="Relativistic Doppler effect" href="https://en.wikipedia.org/wiki/Relativistic_Doppler_effect">Relativistic Doppler effect</a></li>
+<li><a title="Thomas precession" href="https://en.wikipedia.org/wiki/Thomas_precession">Thomas precession</a></li>
+<li><a title="Relativistic disk" href="https://en.wikipedia.org/wiki/Relativistic_disk">Relativistic disk</a></li>
+<li><a title="Bell's spaceship paradox" href="https://en.wikipedia.org/wiki/Bell%27s_spaceship_paradox">Bell's spaceship paradox</a></li>
+<li><a title="Ehrenfest paradox" href="https://en.wikipedia.org/wiki/Ehrenfest_paradox">Ehrenfest paradox</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title"><a title="Spacetime" href="https://en.wikipedia.org/wiki/Spacetime">Spacetime</a></div>
+<div class="sidebar-list-content mw-collapsible-content">
+<ul>
+<li><a title="Arrow of time" href="https://en.wikipedia.org/wiki/Arrow_of_time">Arrow of time</a></li>
+<li><a title="Light cone" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a></li>
+<li><a title="World line" href="https://en.wikipedia.org/wiki/World_line">World line</a></li>
+<li><a title="Three-dimensional space" href="https://en.wikipedia.org/wiki/Three-dimensional_space">Three-dimensional space</a></li>
+<li><a title="Four-dimensional space" href="https://en.wikipedia.org/wiki/Four-dimensional_space">Four-dimensional space</a></li>
+<li><a title="Space" href="https://en.wikipedia.org/wiki/Space">Space</a></li>
+<li><a title="Time" href="https://en.wikipedia.org/wiki/Time">Time</a></li>
+<li><a title="Manifold" href="https://en.wikipedia.org/wiki/Manifold">Manifold</a></li>
+<li><a class="mw-redirect" title="Smooth manifold" href="https://en.wikipedia.org/wiki/Smooth_manifold">Smooth manifold</a></li>
+<li><a title="Riemannian manifold" href="https://en.wikipedia.org/wiki/Riemannian_manifold">Riemannian manifold</a></li>
+<li><a title="Configuration space (physics)" href="https://en.wikipedia.org/wiki/Configuration_space_(physics)">Configuration space</a></li>
+<li><a title="State space (physics)" href="https://en.wikipedia.org/wiki/State_space_(physics)">State space</a></li>
+<li><a title="Phase space" href="https://en.wikipedia.org/wiki/Phase_space">Phase space</a></li>
+<li><a title="Hilbert space" href="https://en.wikipedia.org/wiki/Hilbert_space">Hilbert space</a></li>
+<li><a title="Euclidean space" href="https://en.wikipedia.org/wiki/Euclidean_space">Euclidean space</a></li>
+<li><a title="Topological space" href="https://en.wikipedia.org/wiki/Topological_space">Topological space</a></li>
+<li><a title="Topological defect" href="https://en.wikipedia.org/wiki/Topological_defect">Topological defect</a></li>
+<li><a class="mw-redirect" title="Minkowski diagram" href="https://en.wikipedia.org/wiki/Minkowski_diagram">Spacetime diagrams</a></li>
+<li><a title="Minkowski space" href="https://en.wikipedia.org/wiki/Minkowski_space">Minkowski spacetime</a></li>
+<li><a title="Closed timelike curve" href="https://en.wikipedia.org/wiki/Closed_timelike_curve">Closed timelike curve</a>&nbsp;(CTC)</li>
+<li><a title="Wormhole" href="https://en.wikipedia.org/wiki/Wormhole">Wormhole</a>
+<ul>
+<li><a title="Ellis wormhole" href="https://en.wikipedia.org/wiki/Ellis_wormhole">Ellis wormhole</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title"><a title="Dynamics (mechanics)" href="https://en.wikipedia.org/wiki/Dynamics_(mechanics)">Dynamics</a></div>
+<div class="sidebar-list-content mw-collapsible-content">
+<ul>
+<li><a title="Proper time" href="https://en.wikipedia.org/wiki/Proper_time">Proper time</a></li>
+<li><a title="Invariant mass" href="https://en.wikipedia.org/wiki/Invariant_mass">Proper mass</a></li>
+<li><a title="Lorentz scalar" href="https://en.wikipedia.org/wiki/Lorentz_scalar">Lorentz scalar</a></li>
+<li><a title="Four-momentum" href="https://en.wikipedia.org/wiki/Four-momentum">4-momentum</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="History of special relativity" href="https://en.wikipedia.org/wiki/History_of_special_relativity">History</a></li>
+<li>Precursors</li>
+</ul>
+</div>
+</div>
+<div class="sidebar-list-content mw-collapsible-content">
+<ul>
+<li><a title="Galilean invariance" href="https://en.wikipedia.org/wiki/Galilean_invariance">Galilean relativity</a></li>
+<li><a title="Galilean transformation" href="https://en.wikipedia.org/wiki/Galilean_transformation">Galilean transformation</a></li>
+<li><a title="Aether theories" href="https://en.wikipedia.org/wiki/Aether_theories">Aether theories</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content" style="width: 306px;">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">People</div>
+<div class="sidebar-list-content mw-collapsible-content">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein</a></li>
+<li><a title="Arnold Sommerfeld" href="https://en.wikipedia.org/wiki/Arnold_Sommerfeld">Sommerfeld</a></li>
+<li><a title="Albert A. Michelson" href="https://en.wikipedia.org/wiki/Albert_A._Michelson">Michelson</a></li>
+<li><a title="Edward W. Morley" href="https://en.wikipedia.org/wiki/Edward_W._Morley">Morley</a></li>
+<li><a title="George Francis FitzGerald" href="https://en.wikipedia.org/wiki/George_Francis_FitzGerald">FitzGerald</a></li>
+<li><a title="Gustav Herglotz" href="https://en.wikipedia.org/wiki/Gustav_Herglotz">Herglotz</a></li>
+<li><a title="Hendrik Lorentz" href="https://en.wikipedia.org/wiki/Hendrik_Lorentz">Lorentz</a></li>
+<li><a title="Henri Poincar&eacute;" href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9">Poincar&eacute;</a></li>
+<li><a title="Hermann Minkowski" href="https://en.wikipedia.org/wiki/Hermann_Minkowski">Minkowski</a></li>
+<li><a title="Hippolyte Fizeau" href="https://en.wikipedia.org/wiki/Hippolyte_Fizeau">Fizeau</a></li>
+<li><a title="Max Abraham" href="https://en.wikipedia.org/wiki/Max_Abraham">Abraham</a></li>
+<li><a title="Max Born" href="https://en.wikipedia.org/wiki/Max_Born">Born</a></li>
+<li><a title="Max Planck" href="https://en.wikipedia.org/wiki/Max_Planck">Planck</a></li>
+<li><a title="Max von Laue" href="https://en.wikipedia.org/wiki/Max_von_Laue">von Laue</a></li>
+<li><a title="Paul Ehrenfest" href="https://en.wikipedia.org/wiki/Paul_Ehrenfest">Ehrenfest</a></li>
+<li><a title="Richard C. Tolman" href="https://en.wikipedia.org/wiki/Richard_C._Tolman">Tolman</a></li>
+<li><a title="Paul Dirac" href="https://en.wikipedia.org/wiki/Paul_Dirac">Dirac</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-below" style="width: 306px;">
+<div><a title="Special relativity (alternative formulations)" href="https://en.wikipedia.org/wiki/Special_relativity_(alternative_formulations)">Alternative formulations<br />of special relativity</a></div>
+</td>
+</tr>
+</tbody>
+</table>
 
+</br>
 
-
+<table class="sidebar sidebar-collapse nomobile plainlist">
+<tbody>
+<tr>
+<th class="sidebar-title-with-pretitle"><a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">General relativity</a></th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<p><a title="Introduction to general relativity" href="https://en.wikipedia.org/wiki/Introduction_to_general_relativity">Introduction</a></p>
+<p><a title="History of general relativity" href="https://en.wikipedia.org/wiki/History_of_general_relativity">History</a></p>
+<p><a title="Mathematics of general relativity" href="https://en.wikipedia.org/wiki/Mathematics_of_general_relativity">Mathematical formulation</a></p>
+<p>&nbsp;</p>
+<div class="hlist hlist-separated">
+<p><a title="Tests of general relativity" href="https://en.wikipedia.org/wiki/Tests_of_general_relativity">Tests</a></p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Fundamental concepts</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Principle of relativity" href="https://en.wikipedia.org/wiki/Principle_of_relativity">Principle of relativity</a></li>
+<li><a title="Theory of relativity" href="https://en.wikipedia.org/wiki/Theory_of_relativity">Theory of relativity</a></li>
+<li><a title="General covariance" href="https://en.wikipedia.org/wiki/General_covariance">General covariance</a></li>
+<li><a title="Simultaneity" href="https://en.wikipedia.org/wiki/Simultaneity">Simultaneity</a></li>
+<li><a title="Relativity of simultaneity" href="https://en.wikipedia.org/wiki/Relativity_of_simultaneity">Relativity of simultaneity</a></li>
+<li><a title="Kinematics" href="https://en.wikipedia.org/wiki/Kinematics">Relative motion</a></li>
+<li><a title="Event (relativity)" href="https://en.wikipedia.org/wiki/Event_(relativity)">Event</a></li>
+<li><a title="Frame of reference" href="https://en.wikipedia.org/wiki/Frame_of_reference">Frame of reference</a></li>
+<li><a title="Inertial frame of reference" href="https://en.wikipedia.org/wiki/Inertial_frame_of_reference">Inertial frame of reference</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass#Inertial_mass">Inertial mass</a></li>
+<li><a title="Rest frame" href="https://en.wikipedia.org/wiki/Rest_frame">Rest frame</a></li>
+<li><a title="Center-of-momentum frame" href="https://en.wikipedia.org/wiki/Center-of-momentum_frame">Center-of-momentum frame</a></li>
+<li><a title="Curvature" href="https://en.wikipedia.org/wiki/Curvature">Curvature</a></li>
+<li><a title="Geodesic" href="https://en.wikipedia.org/wiki/Geodesic">Geodesic</a></li>
+<li><a title="Geon (physics)" href="https://en.wikipedia.org/wiki/Geon_(physics)">Geon</a></li>
+<li><a title="Equivalence principle" href="https://en.wikipedia.org/wiki/Equivalence_principle">Equivalence principle</a></li>
+<li><a title="Mass in general relativity" href="https://en.wikipedia.org/wiki/Mass_in_general_relativity">Mass in general relativity</a></li>
+<li><a title="Mass&ndash;energy equivalence" href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">Mass&ndash;energy equivalence</a></li>
+<li><a title="Invariant (physics)" href="https://en.wikipedia.org/wiki/Invariant_(physics)">Invariant</a></li>
+<li><a title="Invariant mass" href="https://en.wikipedia.org/wiki/Invariant_mass">Invariant mass</a></li>
+<li><a title="Spacetime symmetries" href="https://en.wikipedia.org/wiki/Spacetime_symmetries">Spacetime symmetries</a></li>
+<li><a title="Special relativity" href="https://en.wikipedia.org/wiki/Special_relativity">Special relativity</a></li>
+<li><a title="Doubly special relativity" href="https://en.wikipedia.org/wiki/Doubly_special_relativity">Doubly special relativity</a></li>
+<li><a title="De Sitter invariant special relativity" href="https://en.wikipedia.org/wiki/De_Sitter_invariant_special_relativity">de Sitter invariant special relativity</a></li>
+<li><a class="mw-redirect" title="Scale relativity" href="https://en.wikipedia.org/wiki/Scale_relativity">Scale relativity</a></li>
+<li><a title="Speed of light" href="https://en.wikipedia.org/wiki/Speed_of_light">Speed of light</a></li>
+<li><a title="Time derivative" href="https://en.wikipedia.org/wiki/Time_derivative">Time derivative</a></li>
+<li><a title="Proper time" href="https://en.wikipedia.org/wiki/Proper_time">Proper time</a></li>
+<li><a title="Proper length" href="https://en.wikipedia.org/wiki/Proper_length">Proper length</a></li>
+<li><a title="Length contraction" href="https://en.wikipedia.org/wiki/Length_contraction">Length contraction</a></li>
+<li><a title="Action at a distance" href="https://en.wikipedia.org/wiki/Action_at_a_distance">Action at a distance</a></li>
+<li><a title="Principle of locality" href="https://en.wikipedia.org/wiki/Principle_of_locality">Principle of locality</a></li>
+<li><a title="Riemannian geometry" href="https://en.wikipedia.org/wiki/Riemannian_geometry">Riemannian geometry</a></li>
+<li><a title="Energy condition" href="https://en.wikipedia.org/wiki/Energy_condition">Energy condition</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Phenomena</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<table class="sidebar nomobile">
+<tbody>
+<tr>
+<td class="sidebar-content">
+<ul>
+<li><a title="Gravitoelectromagnetism" href="https://en.wikipedia.org/wiki/Gravitoelectromagnetism">Gravitoelectromagnetism</a></li>
+<li><a title="Two-body problem in general relativity" href="https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity">Kepler problem</a></li>
+<li><a title="Gravity" href="https://en.wikipedia.org/wiki/Gravity">Gravity</a></li>
+<li><a title="Gravitational field" href="https://en.wikipedia.org/wiki/Gravitational_field">Gravitational field</a></li>
+<li><a class="mw-redirect" title="Gravity well" href="https://en.wikipedia.org/wiki/Gravity_well">Gravity well</a></li>
+<li><a title="Gravitational lens" href="https://en.wikipedia.org/wiki/Gravitational_lens">Gravitational lensing</a></li>
+<li><a title="Gravitational wave" href="https://en.wikipedia.org/wiki/Gravitational_wave">Gravitational waves</a></li>
+<li><a title="Gravitational redshift" href="https://en.wikipedia.org/wiki/Gravitational_redshift">Gravitational redshift</a></li>
+<li><a title="Redshift" href="https://en.wikipedia.org/wiki/Redshift">Redshift</a></li>
+<li><a title="Blueshift" href="https://en.wikipedia.org/wiki/Blueshift">Blueshift</a></li>
+<li><a title="Time dilation" href="https://en.wikipedia.org/wiki/Time_dilation">Time dilation</a></li>
+<li><a class="mw-selflink selflink">Gravitational time dilation</a></li>
+<li><a title="Shapiro time delay" href="https://en.wikipedia.org/wiki/Shapiro_time_delay">Shapiro time delay</a></li>
+<li><a title="Gravitational potential" href="https://en.wikipedia.org/wiki/Gravitational_potential">Gravitational potential</a></li>
+<li><a title="Gravitational compression" href="https://en.wikipedia.org/wiki/Gravitational_compression">Gravitational compression</a></li>
+<li><a title="Gravitational collapse" href="https://en.wikipedia.org/wiki/Gravitational_collapse">Gravitational collapse</a></li>
+<li><a title="Frame-dragging" href="https://en.wikipedia.org/wiki/Frame-dragging">Frame-dragging</a></li>
+<li><a title="Geodetic effect" href="https://en.wikipedia.org/wiki/Geodetic_effect">Geodetic effect</a></li>
+<li><a title="Apparent horizon" href="https://en.wikipedia.org/wiki/Apparent_horizon">Apparent horizon</a></li>
+<li><a title="Event horizon" href="https://en.wikipedia.org/wiki/Event_horizon">Event horizon</a></li>
+<li><a title="Gravitational singularity" href="https://en.wikipedia.org/wiki/Gravitational_singularity">Gravitational singularity</a></li>
+<li><a title="Naked singularity" href="https://en.wikipedia.org/wiki/Naked_singularity">Naked singularity</a></li>
+<li><a title="Black hole" href="https://en.wikipedia.org/wiki/Black_hole">Black hole</a></li>
+<li><a title="White hole" href="https://en.wikipedia.org/wiki/White_hole">White hole</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="sidebar-heading"><a title="Spacetime" href="https://en.wikipedia.org/wiki/Spacetime">Spacetime</a></th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<ul>
+<li><a title="Arrow of time" href="https://en.wikipedia.org/wiki/Arrow_of_time">Arrow of time</a></li>
+<li><a title="Light cone" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a></li>
+<li><a title="World line" href="https://en.wikipedia.org/wiki/World_line">World line</a></li>
+<li><a title="Three-dimensional space" href="https://en.wikipedia.org/wiki/Three-dimensional_space">Three-dimensional space</a></li>
+<li><a title="Four-dimensional space" href="https://en.wikipedia.org/wiki/Four-dimensional_space">Four-dimensional space</a></li>
+<li><a title="Space" href="https://en.wikipedia.org/wiki/Space">Space</a></li>
+<li><a title="Time" href="https://en.wikipedia.org/wiki/Time">Time</a></li>
+<li><a title="Manifold" href="https://en.wikipedia.org/wiki/Manifold">Manifold</a></li>
+<li><a class="mw-redirect" title="Smooth manifold" href="https://en.wikipedia.org/wiki/Smooth_manifold">Smooth manifold</a></li>
+<li><a title="Riemannian manifold" href="https://en.wikipedia.org/wiki/Riemannian_manifold">Riemannian manifold</a></li>
+<li><a title="Configuration space (physics)" href="https://en.wikipedia.org/wiki/Configuration_space_(physics)">Configuration space</a></li>
+<li><a title="State space (physics)" href="https://en.wikipedia.org/wiki/State_space_(physics)">State space</a></li>
+<li><a title="Phase space" href="https://en.wikipedia.org/wiki/Phase_space">Phase space</a></li>
+<li><a title="Hilbert space" href="https://en.wikipedia.org/wiki/Hilbert_space">Hilbert space</a></li>
+<li><a title="Euclidean space" href="https://en.wikipedia.org/wiki/Euclidean_space">Euclidean space</a></li>
+<li><a title="Topological space" href="https://en.wikipedia.org/wiki/Topological_space">Topological space</a></li>
+<li><a title="Topological defect" href="https://en.wikipedia.org/wiki/Topological_defect">Topological defect</a></li>
+<li><a class="mw-redirect" title="Minkowski diagram" href="https://en.wikipedia.org/wiki/Minkowski_diagram">Spacetime diagrams</a></li>
+<li><a title="Minkowski space" href="https://en.wikipedia.org/wiki/Minkowski_space">Minkowski spacetime</a></li>
+<li><a title="Lorentz scalar" href="https://en.wikipedia.org/wiki/Lorentz_scalar">Lorentz scalar</a></li>
+<li><a title="Closed timelike curve" href="https://en.wikipedia.org/wiki/Closed_timelike_curve">Closed timelike curve</a>&nbsp;(CTC)</li>
+<li><a title="Wormhole" href="https://en.wikipedia.org/wiki/Wormhole">Wormhole</a>&nbsp;
+<ul>
+<li><a title="Ellis wormhole" href="https://en.wikipedia.org/wiki/Ellis_wormhole">Ellis wormhole</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">
+<div class="hlist hlist-separated">
+<ul>
+<li>Equations</li>
+<li>Formalisms</li>
+</ul>
+</div>
+</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<table class="sidebar nomobile">
+<tbody>
+<tr>
+<th class="sidebar-heading">Equations</th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<ul>
+<li><a title="Linearized gravity" href="https://en.wikipedia.org/wiki/Linearized_gravity">Linearized gravity</a></li>
+<li><a title="Einstein field equations" href="https://en.wikipedia.org/wiki/Einstein_field_equations">Einstein field equations</a></li>
+<li><a title="Friedmann equations" href="https://en.wikipedia.org/wiki/Friedmann_equations">Friedmann</a></li>
+<li><a title="Geodesics in general relativity" href="https://en.wikipedia.org/wiki/Geodesics_in_general_relativity">Geodesics</a></li>
+<li><a title="Mathisson&ndash;Papapetrou&ndash;Dixon equations" href="https://en.wikipedia.org/wiki/Mathisson%E2%80%93Papapetrou%E2%80%93Dixon_equations">Mathisson&ndash;Papapetrou&ndash;Dixon</a></li>
+<li><a title="Hamilton&ndash;Jacobi&ndash;Einstein equation" href="https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Einstein_equation">Hamilton&ndash;Jacobi&ndash;Einstein</a></li>
+<li><a title="Curvature invariant (general relativity)" href="https://en.wikipedia.org/wiki/Curvature_invariant_(general_relativity)">Curvature invariant (general relativity)</a></li>
+<li><a title="Lorentz transformation" href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz transformation</a></li>
+<li><a class="mw-redirect" title="Lorentzian manifold" href="https://en.wikipedia.org/wiki/Lorentzian_manifold">Lorentzian manifold</a></li>
+<li><a title="Globally hyperbolic manifold" href="https://en.wikipedia.org/wiki/Globally_hyperbolic_manifold">Globally hyperbolic manifold</a></li>
+<li><a title="Causality conditions" href="https://en.wikipedia.org/wiki/Causality_conditions">Causality conditions</a></li>
+<li><a title="Causal structure" href="https://en.wikipedia.org/wiki/Causal_structure">Causal structure</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="sidebar-heading">Formalisms</th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<ul>
+<li><a title="ADM formalism" href="https://en.wikipedia.org/wiki/ADM_formalism">ADM</a></li>
+<li><a title="BSSN formalism" href="https://en.wikipedia.org/wiki/BSSN_formalism">BSSN</a></li>
+<li><a title="Newman&ndash;Penrose formalism" href="https://en.wikipedia.org/wiki/Newman%E2%80%93Penrose_formalism">Newman&ndash;Penrose</a></li>
+<li><a title="Parameterized post-Newtonian formalism" href="https://en.wikipedia.org/wiki/Parameterized_post-Newtonian_formalism">Post-Newtonian</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="sidebar-heading">Advanced theory</th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<ul>
+<li><a title="Brans&ndash;Dicke theory" href="https://en.wikipedia.org/wiki/Brans%E2%80%93Dicke_theory">Brans&ndash;Dicke theory</a></li>
+<li><a title="Cosmic censorship hypothesis" href="https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis">Cosmic censorship hypothesis</a></li>
+<li><a title="Kaluza&ndash;Klein theory" href="https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory">Kaluza&ndash;Klein theory</a></li>
+<li><a title="Quantum gravity" href="https://en.wikipedia.org/wiki/Quantum_gravity">Quantum gravity</a></li>
+<li><a title="Supergravity" href="https://en.wikipedia.org/wiki/Supergravity">Supergravity</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title"><a title="Exact solutions in general relativity" href="https://en.wikipedia.org/wiki/Exact_solutions_in_general_relativity">Solutions</a></div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Relativistic disk" href="https://en.wikipedia.org/wiki/Relativistic_disk">Relativistic disk</a></li>
+<li><a title="Schwarzschild metric" href="https://en.wikipedia.org/wiki/Schwarzschild_metric">Schwarzschild</a>&nbsp;(<a title="Interior Schwarzschild metric" href="https://en.wikipedia.org/wiki/Interior_Schwarzschild_metric">interior</a>)</li>
+<li><a title="Reissner&ndash;Nordstr&ouml;m metric" href="https://en.wikipedia.org/wiki/Reissner%E2%80%93Nordstr%C3%B6m_metric">Reissner&ndash;Nordstr&ouml;m</a></li>
+<li><a title="G&ouml;del metric" href="https://en.wikipedia.org/wiki/G%C3%B6del_metric">G&ouml;del</a></li>
+<li><a title="Kerr metric" href="https://en.wikipedia.org/wiki/Kerr_metric">Kerr</a></li>
+<li><a title="Kerr&ndash;Newman metric" href="https://en.wikipedia.org/wiki/Kerr%E2%80%93Newman_metric">Kerr&ndash;Newman</a></li>
+<li><a title="Kasner metric" href="https://en.wikipedia.org/wiki/Kasner_metric">Kasner</a></li>
+<li><a title="Lema&icirc;tre&ndash;Tolman metric" href="https://en.wikipedia.org/wiki/Lema%C3%AEtre%E2%80%93Tolman_metric">Lema&icirc;tre&ndash;Tolman</a></li>
+<li><a title="Taub&ndash;NUT space" href="https://en.wikipedia.org/wiki/Taub%E2%80%93NUT_space">Taub-NUT</a></li>
+<li><a title="Milne model" href="https://en.wikipedia.org/wiki/Milne_model">Milne</a></li>
+<li><a title="Friedmann&ndash;Lema&icirc;tre&ndash;Robertson&ndash;Walker metric" href="https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric">Robertson&ndash;Walker</a></li>
+<li><a title="Pp-wave spacetime" href="https://en.wikipedia.org/wiki/Pp-wave_spacetime">pp-wave</a></li>
+<li><a title="Van Stockum dust" href="https://en.wikipedia.org/wiki/Van_Stockum_dust">van Stockum dust</a></li>
+<li><a class="mw-redirect" title="Weyl&minus;Lewis&minus;Papapetrou coordinates" href="https://en.wikipedia.org/wiki/Weyl%E2%88%92Lewis%E2%88%92Papapetrou_coordinates">Weyl&ndash;Lewis&ndash;Papapetrou</a></li>
+<li><a title="Vacuum solution (general relativity)" href="https://en.wikipedia.org/wiki/Vacuum_solution_(general_relativity)">Vacuum solution</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Theorems</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Birkhoff's theorem (relativity)" href="https://en.wikipedia.org/wiki/Birkhoff%27s_theorem_(relativity)">Birkhoff's theorem</a></li>
+<li><a title="Geroch's splitting theorem" href="https://en.wikipedia.org/wiki/Geroch%27s_splitting_theorem">Geroch's splitting theorem</a></li>
+<li><a title="Goldberg&ndash;Sachs theorem" href="https://en.wikipedia.org/wiki/Goldberg%E2%80%93Sachs_theorem">Goldberg&ndash;Sachs theorem</a></li>
+<li><a title="Lovelock's theorem" href="https://en.wikipedia.org/wiki/Lovelock%27s_theorem">Lovelock's theorem</a></li>
+<li><a title="No-hair theorem" href="https://en.wikipedia.org/wiki/No-hair_theorem">No-hair theorem</a></li>
+<li><a title="Penrose&ndash;Hawking singularity theorems" href="https://en.wikipedia.org/wiki/Penrose%E2%80%93Hawking_singularity_theorems">Penrose&ndash;Hawking singularity theorems</a></li>
+<li><a title="Positive energy theorem" href="https://en.wikipedia.org/wiki/Positive_energy_theorem">Positive energy theorem</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Scientists</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein</a></li>
+<li><a title="Hendrik Lorentz" href="https://en.wikipedia.org/wiki/Hendrik_Lorentz">Lorentz</a></li>
+<li><a title="David Hilbert" href="https://en.wikipedia.org/wiki/David_Hilbert">Hilbert</a></li>
+<li><a title="Henri Poincar&eacute;" href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9">Poincar&eacute;</a></li>
+<li><a title="Karl Schwarzschild" href="https://en.wikipedia.org/wiki/Karl_Schwarzschild">Schwarzschild</a></li>
+<li><a title="Willem de Sitter" href="https://en.wikipedia.org/wiki/Willem_de_Sitter">de Sitter</a></li>
+<li><a title="Hans Reissner" href="https://en.wikipedia.org/wiki/Hans_Reissner">Reissner</a></li>
+<li><a title="Gunnar Nordstr&ouml;m" href="https://en.wikipedia.org/wiki/Gunnar_Nordstr%C3%B6m">Nordstr&ouml;m</a></li>
+<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Weyl</a></li>
+<li><a title="Arthur Eddington" href="https://en.wikipedia.org/wiki/Arthur_Eddington">Eddington</a></li>
+<li><a title="Alexander Friedmann" href="https://en.wikipedia.org/wiki/Alexander_Friedmann">Friedman</a></li>
+<li><a title="Edward Arthur Milne" href="https://en.wikipedia.org/wiki/Edward_Arthur_Milne">Milne</a></li>
+<li><a title="Fritz Zwicky" href="https://en.wikipedia.org/wiki/Fritz_Zwicky">Zwicky</a></li>
+<li><a title="Georges Lema&icirc;tre" href="https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre">Lema&icirc;tre</a></li>
+<li><a title="Kurt G&ouml;del" href="https://en.wikipedia.org/wiki/Kurt_G%C3%B6del">G&ouml;del</a></li>
+<li><a title="John Archibald Wheeler" href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler">Wheeler</a></li>
+<li><a title="Howard P. Robertson" href="https://en.wikipedia.org/wiki/Howard_P._Robertson">Robertson</a></li>
+<li><a title="James M. Bardeen" href="https://en.wikipedia.org/wiki/James_M._Bardeen">Bardeen</a></li>
+<li><a title="Arthur Geoffrey Walker" href="https://en.wikipedia.org/wiki/Arthur_Geoffrey_Walker">Walker</a></li>
+<li><a title="Roy Kerr" href="https://en.wikipedia.org/wiki/Roy_Kerr">Kerr</a></li>
+<li><a title="Subrahmanyan Chandrasekhar" href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar">Chandrasekhar</a></li>
+<li><a title="J&uuml;rgen Ehlers" href="https://en.wikipedia.org/wiki/J%C3%BCrgen_Ehlers">Ehlers</a></li>
+<li><a title="Roger Penrose" href="https://en.wikipedia.org/wiki/Roger_Penrose">Penrose</a></li>
+<li><a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Hawking</a></li>
+<li><a title="Amal Kumar Raychaudhuri" href="https://en.wikipedia.org/wiki/Amal_Kumar_Raychaudhuri">Raychaudhuri</a></li>
+<li><a title="Joseph Hooton Taylor Jr." href="https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor_Jr.">Taylor</a></li>
+<li><a title="Russell Alan Hulse" href="https://en.wikipedia.org/wiki/Russell_Alan_Hulse">Hulse</a></li>
+<li><a title="Willem Jacob van Stockum" href="https://en.wikipedia.org/wiki/Willem_Jacob_van_Stockum">van Stockum</a></li>
+<li><a title="Abraham H. Taub" href="https://en.wikipedia.org/wiki/Abraham_H._Taub">Taub</a></li>
+<li><a title="Ezra T. Newman" href="https://en.wikipedia.org/wiki/Ezra_T._Newman">Newman</a></li>
+<li><a title="Shing-Tung Yau" href="https://en.wikipedia.org/wiki/Shing-Tung_Yau">Yau</a></li>
+<li><a title="Kip Thorne" href="https://en.wikipedia.org/wiki/Kip_Thorne">Thorne</a></li>
+<li><a title="List of contributors to general relativity" href="https://en.wikipedia.org/wiki/List_of_contributors_to_general_relativity"><em>others</em></a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
 
