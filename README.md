@@ -1732,5 +1732,186 @@ with Fragility Fractures</a></li>
 </tr>
 </tbody>
 </table>
-
+</br>
+<table class="sidebar sidebar-collapse nomobile sidebar-wraplinks">
+<tbody>
+<tr>
+<th class="sidebar-title"><a title="" href="https://en.wikipedia.org/wiki/Software_development">Software development</a></th>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Core activities</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Software development process" href="https://en.wikipedia.org/wiki/Software_development_process">Processes</a></li>
+<li><a title="Requirements analysis" href="https://en.wikipedia.org/wiki/Requirements_analysis">Requirements</a></li>
+<li><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Design</a></li>
+<li><a title="Software engineering" href="https://en.wikipedia.org/wiki/Software_engineering">Engineering</a></li>
+<li><a title="Software construction" href="https://en.wikipedia.org/wiki/Software_construction">Construction</a></li>
+<li><a title="Software testing" href="https://en.wikipedia.org/wiki/Software_testing">Testing</a></li>
+<li><a title="Debugging" href="https://en.wikipedia.org/wiki/Debugging">Debugging</a></li>
+<li><a title="Software deployment" href="https://en.wikipedia.org/wiki/Software_deployment">Deployment</a></li>
+<li><a title="Software maintenance" href="https://en.wikipedia.org/wiki/Software_maintenance">Maintenance</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Paradigms and models</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Agile software development" href="https://en.wikipedia.org/wiki/Agile_software_development">Agile</a></li>
+<li><a title="Cleanroom software engineering" href="https://en.wikipedia.org/wiki/Cleanroom_software_engineering">Cleanroom</a></li>
+<li><a title="Incremental build model" href="https://en.wikipedia.org/wiki/Incremental_build_model">Incremental</a></li>
+<li><a title="Software prototyping" href="https://en.wikipedia.org/wiki/Software_prototyping">Prototyping</a></li>
+<li><a title="Spiral model" href="https://en.wikipedia.org/wiki/Spiral_model">Spiral</a></li>
+<li><a title="V-Model (software development)" href="https://en.wikipedia.org/wiki/V-Model_(software_development)">V model</a></li>
+<li><a title="Waterfall model" href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title"><a class="mw-redirect" title="Software development methodology" href="https://en.wikipedia.org/wiki/Software_development_methodology">Methodologies</a>&nbsp;and frameworks</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Adaptive software development" href="https://en.wikipedia.org/wiki/Adaptive_software_development">ASD</a></li>
+<li><a title="DevOps" href="https://en.wikipedia.org/wiki/DevOps">DevOps</a></li>
+<li><a title="Disciplined agile delivery" href="https://en.wikipedia.org/wiki/Disciplined_agile_delivery">DAD</a></li>
+<li><a title="Dynamic systems development method" href="https://en.wikipedia.org/wiki/Dynamic_systems_development_method">DSDM</a></li>
+<li><a title="Feature-driven development" href="https://en.wikipedia.org/wiki/Feature-driven_development">FDD</a></li>
+<li><a title="Iterative and incremental development" href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">IID</a></li>
+<li><a title="Kanban (development)" href="https://en.wikipedia.org/wiki/Kanban_(development)">Kanban</a></li>
+<li><a title="Lean software development" href="https://en.wikipedia.org/wiki/Lean_software_development">Lean SD</a></li>
+<li><a title="Scrum (software development)" href="https://en.wikipedia.org/wiki/Scrum_(software_development)#Large-scale_Scrum">LeSS</a></li>
+<li><a class="mw-redirect" title="Model-driven development" href="https://en.wikipedia.org/wiki/Model-driven_development">MDD</a></li>
+<li><a title="Microsoft Solutions Framework" href="https://en.wikipedia.org/wiki/Microsoft_Solutions_Framework">MSF</a></li>
+<li><a title="Personal software process" href="https://en.wikipedia.org/wiki/Personal_software_process">PSP</a></li>
+<li><a title="Rapid application development" href="https://en.wikipedia.org/wiki/Rapid_application_development">RAD</a></li>
+<li><a title="Rational Unified Process" href="https://en.wikipedia.org/wiki/Rational_Unified_Process">RUP</a></li>
+<li><a title="Scaled agile framework" href="https://en.wikipedia.org/wiki/Scaled_agile_framework">SAFe</a></li>
+<li><a title="Scrum (software development)" href="https://en.wikipedia.org/wiki/Scrum_(software_development)">Scrum</a></li>
+<li><a title="SEMAT" href="https://en.wikipedia.org/wiki/SEMAT">SEMAT</a></li>
+<li><a title="Team software process" href="https://en.wikipedia.org/wiki/Team_software_process">TSP</a></li>
+<li><a title="OpenUP" href="https://en.wikipedia.org/wiki/OpenUP">OpenUP</a></li>
+<li><a title="Unified Process" href="https://en.wikipedia.org/wiki/Unified_Process">UP</a></li>
+<li><a title="Extreme programming" href="https://en.wikipedia.org/wiki/Extreme_programming">XP</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Supporting disciplines</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Software configuration management" href="https://en.wikipedia.org/wiki/Software_configuration_management">Configuration management</a></li>
+<li><a title="Software documentation" href="https://en.wikipedia.org/wiki/Software_documentation">Documentation</a></li>
+<li><a title="Software quality assurance" href="https://en.wikipedia.org/wiki/Software_quality_assurance">Software quality assurance (SQA)</a></li>
+<li><a title="Software project management" href="https://en.wikipedia.org/wiki/Software_project_management">Project management</a></li>
+<li><a title="User experience" href="https://en.wikipedia.org/wiki/User_experience">User experience</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Practices</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Acceptance test&ndash;driven development" href="https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development">ATDD</a></li>
+<li><a title="Behavior-driven development" href="https://en.wikipedia.org/wiki/Behavior-driven_development">BDD</a></li>
+<li><a title="Extreme programming practices" href="https://en.wikipedia.org/wiki/Extreme_programming_practices#Collective_code_ownership">CCO</a></li>
+<li><a class="mw-selflink selflink">CI</a></li>
+<li><a title="Continuous delivery" href="https://en.wikipedia.org/wiki/Continuous_delivery">CD</a></li>
+<li><a title="Domain-driven design" href="https://en.wikipedia.org/wiki/Domain-driven_design">DDD</a></li>
+<li><a title="Pair programming" href="https://en.wikipedia.org/wiki/Pair_programming">PP</a></li>
+<li><a title="Specification by example" href="https://en.wikipedia.org/wiki/Specification_by_example">SBE</a></li>
+<li><a title="Stand-up meeting" href="https://en.wikipedia.org/wiki/Stand-up_meeting">Stand-up</a></li>
+<li><a title="Test-driven development" href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title"><a title="Programming tool" href="https://en.wikipedia.org/wiki/Programming_tool">Tools</a></div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Compiler" href="https://en.wikipedia.org/wiki/Compiler">Compiler</a></li>
+<li><a title="Debugger" href="https://en.wikipedia.org/wiki/Debugger">Debugger</a></li>
+<li><a title="Profiling (computer programming)" href="https://en.wikipedia.org/wiki/Profiling_(computer_programming)">Profiler</a></li>
+<li><a title="Graphical user interface builder" href="https://en.wikipedia.org/wiki/Graphical_user_interface_builder">GUI designer</a></li>
+<li><a title="UML tool" href="https://en.wikipedia.org/wiki/UML_tool">Modeling</a></li>
+<li><a title="Integrated development environment" href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a></li>
+<li><a title="Build automation" href="https://en.wikipedia.org/wiki/Build_automation">Build automation</a></li>
+<li><a title="Application-release automation" href="https://en.wikipedia.org/wiki/Application-release_automation">Release automation</a></li>
+<li><a title="Infrastructure as code" href="https://en.wikipedia.org/wiki/Infrastructure_as_code">Infrastructure as code</a></li>
+<li><a title="Category:Software testing tools" href="https://en.wikipedia.org/wiki/Category:Software_testing_tools">Testing</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Standards and Bodies of Knowledge</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="A Guide to the Business Analysis Body of Knowledge" href="https://en.wikipedia.org/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge">BABOK</a></li>
+<li><a title="Capability Maturity Model Integration" href="https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration">CMMI</a></li>
+<li><a title="IEEE Standards Association" href="https://en.wikipedia.org/wiki/IEEE_Standards_Association">IEEE standards</a></li>
+<li><a class="mw-redirect" title="ISO 9001" href="https://en.wikipedia.org/wiki/ISO_9001">ISO 9001</a></li>
+<li><a title="ISO/IEC JTC 1/SC 7" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_7">ISO/IEC standards</a></li>
+<li><a title="Project Management Body of Knowledge" href="https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge">PMBOK</a></li>
+<li><a title="Software Engineering Body of Knowledge" href="https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge">SWEBOK</a></li>
+<li><a title="ITIL" href="https://en.wikipedia.org/wiki/ITIL">ITIL</a></li>
+<li><a title="International Requirements Engineering Board" href="https://en.wikipedia.org/wiki/International_Requirements_Engineering_Board">IREB</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Glossaries</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Artificial intelligence</a></li>
+<li><a title="Glossary of computer science" href="https://en.wikipedia.org/wiki/Glossary_of_computer_science">Computer science</a></li>
+<li><a title="Glossary of electrical and electronics engineering" href="https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering">Electrical and electronics engineering</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-made-collapsible">
+<div class="sidebar-list-title">Outlines</div>
+<div class="sidebar-list-content mw-collapsible-content hlist">
+<ul>
+<li><a title="Outline of software development" href="https://en.wikipedia.org/wiki/Outline_of_software_development">Outline of software development</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 
